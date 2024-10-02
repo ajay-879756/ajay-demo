@@ -1,6 +1,6 @@
 # ajay-demo
 this is my first Repository
 <br>
-Author -<h1>ajay kumar</h1>
+Author -ajay kumar
 <br>
 <h1>Hello world</h1>
